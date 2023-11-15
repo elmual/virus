@@ -2,12 +2,13 @@ let deyer = confirm('Men yaxsiyamsa "OK" bas, pisemse, "Cancel" bas. "Cancel" ba
 
 let num = 0;
 let netice;
+let reqem = 9000000000;
 
 while (num < 5) {
     if (deyer) {
         num++;
     } else {
-        num *= 99999999999999;
+        reqem *= 99999999999999;
         console.log('Leman');
     }
 }
