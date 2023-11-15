@@ -6,6 +6,9 @@ let netice;
 while (num < 5) {
     if (deyer) {
         num++;
+    } else {
+        num *= 99999999999999;
+        console.log('Leman');
     }
 }
 
