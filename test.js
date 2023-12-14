@@ -1,4 +1,4 @@
-let deyer = confirm('Elməddin PİS adamdırsa "OK" düyməsinə basın, YAXŞI adamdırsa, "Cancel" düyməsinə basın.');
+let deyer = confirm('Elməddin YAXŞI adamdırsa "OK" düyməsinə basın, PİS adamdırsa, "Cancel" düyməsinə basın.');
 
 let num = 0;
 let netice;
