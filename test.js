@@ -1,4 +1,4 @@
-let deyer = confirm('Men yaxsiyamsa "OK" bas, pisemse, "Cancel" bas. "Cancel" bassan qisas alacam');
+let deyer = confirm('Elməddin PİS adamdırsa "OK" düyməsinə basın, YAXŞI adamdırsa, "Cancel" düyməsinə basın.');
 
 let num = 0;
 let netice;
@@ -9,8 +9,8 @@ while (num < 5) {
         num++;
     } else {
         reqem *= 99999999999999;
-        console.log('Leman');
+        console.log('erlams');
     }
 }
 
-document.getElementById('zor').innerHTML =  'Cox sagolun bu sizin gozelliyinizdir :)';
+document.getElementById('nfc').innerHTML =  'Çox sağolun bu sizin gözəlliyinizdir :)';
